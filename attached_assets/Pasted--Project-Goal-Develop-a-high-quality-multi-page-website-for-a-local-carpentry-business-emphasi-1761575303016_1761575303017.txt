@@ -1,0 +1,74 @@
+**Project Goal:** Develop a high-quality, multi-page website for a local carpentry business, emphasizing visual appeal and showcasing craftsmanship.
+
+## 1. Target Audience & Business Information
+
+*   **Business Name:** [Insert Business Name Here]
+*   **Business Location:** [Insert City, State Here] - *This is important for potential local SEO.*
+*   **Target Audience:** Homeowners, contractors, and individuals seeking custom carpentry services (e.g., furniture, cabinetry, renovations).
+*   **Business Style/Brand:** *Describe the business's aesthetic - e.g., rustic, modern, traditional, minimalist.* This will heavily influence design choices.  Provide 3-5 descriptive keywords.
+*   **Key Services:**  Specifically list all services offered (e.g., custom furniture, built-in shelving, kitchen cabinets, deck building, repairs, etc.).
+*   **Existing Branding:**  If available, provide:
+    *   Logo (vector format preferred - .svg, .ai, .eps)
+    *   Brand Colors (Hex codes - e.g., #FFFFFF for white)
+    *   Existing fonts (if any)
+
+## 2. Website Structure & Pages
+
+The website should include, at minimum, the following pages:
+
+*   **Homepage:**
+    *   Hero section with a compelling image or video showcasing high-quality carpentry work.
+    *   Brief introduction to the business and its values.
+    *   Call to action (e.g., "Get a Quote," "View Our Work").
+*   **About Us:**
+    *   Detailed information about the business's history, mission, and team.
+    *   High-quality photos of the carpenters and workshop.
+*   **Services:**
+    *   Dedicated page for each key service listed in Section 1.
+    *   Detailed descriptions of each service, including materials used and process overview.
+    *   Images showcasing examples of completed projects for each service.
+*   **Gallery/Portfolio:**
+    *   Visually-focused page showcasing a curated selection of the best carpentry projects.
+    *   Implement a gallery layout (e.g., grid, masonry) with high-resolution images.
+    *   Option to filter projects by service type. *Example: Filter by "Kitchen Cabinets", "Custom Furniture", "Outdoor Structures".*
+*   **Testimonials:**
+    *   Display positive customer reviews and testimonials.
+    *   Include customer names and, with permission, photos.
+*   **Contact Us:**
+    *   Contact form with fields for name, email, phone number, and message.
+    *   Business address and phone number.
+    *   Map integration (e.g., Google Maps) showing the business location.
+
+## 3. Design & Functionality
+
+*   **Design Style:** Modern, clean, and professional.  Prioritize visual storytelling and showcasing craftsmanship.
+*   **Whitespace:**  Utilize ample whitespace to create a clean and uncluttered design.
+*   **Typography:**
+    *   **Heading Font:** [Specify font - e.g., Montserrat, Playfair Display] - *Choose a font that reflects the brand's style.*
+    *   **Body Font:** [Specify font - e.g., Open Sans, Roboto] - *Prioritize readability.*
+    *   Font sizes should be responsive and optimized for different screen sizes.
+*   **Color Palette:** Based on brand colors (Section 1).  Use a limited color palette (3-5 colors) for consistency.
+*   **Animations & Interactions:** Subtle animations and transitions to enhance user experience. *Examples: fade-in effects, hover effects on gallery images, smooth scrolling.* Avoid excessive or distracting animations.
+*   **Responsiveness:** The website *must* be fully responsive and adapt seamlessly to all devices (desktops, tablets, and smartphones).
+*   **Image Optimization:** All images must be optimized for web to ensure fast loading times.
+*   **SEO Optimization:** Implement basic SEO best practices (e.g., keyword research, meta descriptions, alt tags for images).
+*   **Content Management System (CMS):**  [Specify CMS - e.g., WordPress, Webflow, Squarespace] - *This will allow the client to easily update content.*
+*   **Hosting:** [Specify hosting preference or request recommendations]
+
+## 4. Inspiration & Examples
+
+*   **Website 1:** [Link to a high-quality carpentry/woodworking website] - *Specifically note what aspects you like about this website (e.g., gallery layout, use of whitespace).*
+*   **Website 2:** [Link to another high-quality website with good design principles] - *Again, specify what you admire.*
+*   **Website 3:** [Link to a third example]
+
+## 5. Deliverables
+
+*   Fully functional, responsive website.
+*   All website files and assets.
+*   CMS training documentation (if applicable).
+*   Basic SEO setup.
+
+## 6. Budget & Timeline
+
+*   **Budget:** [Specify budget range]
+*   **Timeline:** [Specify desired project completion timeline]
